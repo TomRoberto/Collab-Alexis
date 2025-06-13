@@ -6,7 +6,7 @@ const Header = () => {
         backgroundColor: "red",
       }}
     >
-      Je suis un header
+      Je suis un header, très sympas
     </header>
   );
 };
