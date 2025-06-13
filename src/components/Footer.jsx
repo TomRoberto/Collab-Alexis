@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <div style={{ backgroundColor: "magenta", color: "yellow" }}>
-      Je suis un magnifique footer
+      Hello, je suis Tom
     </div>
   );
 };
